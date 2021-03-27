@@ -1,8 +1,6 @@
-# @~ I'm limiteci
+# @~[limiteci](https://limiteci.tech)
+- I make open source software
 
-## - I make software -
-
-## BTC: bc1qpssfv5vhgpwtyxj6aysdl5thzleqpagwm9nges
 
 
 
