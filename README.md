@@ -19,3 +19,7 @@
 - [secret.limiteci.tech](https://secret.limiteci.tech)
 - { will add more as I develop them }
 # Thank you for visting my page
+- ᕦ(▀̿ ̿ -▀̿ ̿ )つ/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿
+
+![](esc/images/hyper.gif)
+- ᕦ(▀̿ ̿ -▀̿ ̿ )つ/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿
