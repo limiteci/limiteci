@@ -17,5 +17,5 @@
 # Wesites
 - [limiteci.tech](https://limiteci.tech)
 - [secret.limiteci.tech](https://secret.limiteci.tech)
-
-
+- { will add more as I develop them }
+# Thank you for visting my page
