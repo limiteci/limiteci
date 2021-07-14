@@ -19,7 +19,7 @@
 # Wesites
 - [limiteci.tech](https://limiteci.tech)
 - { will add more as I develop them }
-# Thank you for visting my page
+# thank you for visting my page (very cool)
 - ᕦ(▀̿ ̿ -▀̿ ̿ )つ/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿
 
 ![](esc/images/hyper.gif)
