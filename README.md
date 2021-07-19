@@ -5,7 +5,7 @@
 # Projects
 - Open-Source-Software
 - Archives of filedumps and projects
-- CAD images for 3d printing various [tools/firearms/esc](https://www.youtube.com/watch?v=cdmhyEqCINM&ab_channel=Noz)
+- CAD images for 3d printing various [tools/firearms/esc](https://github.com/limiteci/vault)
 - Cryptography software and devices available on the [limiteci-archive](https://limiteci.tech)
 # Cryptocurrency
 - $BTC
