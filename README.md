@@ -3,7 +3,6 @@
 - Further information on this can be found at this [README.md](https://github.com/limiteci/limiteci/blob/main/README.md) file.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=limiteci)](https://limiteci.tech)
-
 # Projects
 - Open-Source-Software
 - Archives of filedumps and projects
