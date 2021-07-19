@@ -8,7 +8,7 @@
 - CAD images for 3d printing various [tools/firearms/esc](https://github.com/limiteci/vault)
 - Cryptography software and devices available on the [limiteci-archive](https://limiteci.tech)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limiteci)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=limiteci)](https://limiteci.tech)
 
 # Cryptocurrency
 - $BTC
