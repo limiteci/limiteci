@@ -1,14 +1,14 @@
 # @~[limiteci](https://limiteci.tech)  -  ( う-´)づ︻╦̵̵̿╤──
 - This repository is for documenting the projects and information about the things that I create on this site and others.
 - Further information on this can be found at this [README.md](https://github.com/limiteci/limiteci/blob/main/README.md) file.
-- 🐧
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=limiteci)](https://limiteci.tech)
+
 # Projects
 - Open-Source-Software
 - Archives of filedumps and projects
 - CAD images for 3d printing various [tools/firearms/esc](https://github.com/limiteci/vault)
 - Cryptography software and devices available on the [limiteci-archive](https://limiteci.tech)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=limiteci)](https://limiteci.tech)
 
 # Cryptocurrency
 - $BTC
