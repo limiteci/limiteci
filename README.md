@@ -24,3 +24,4 @@
 
 ![](esc/images/hyper.gif)
 - ᕦ(▀̿ ̿ -▀̿ ̿ )つ/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limiteci)](https://github.com/anuraghazra/github-readme-stats)
