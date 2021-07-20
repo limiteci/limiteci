@@ -2,7 +2,7 @@
 - This repository is for documenting the projects and information about the things that I create on this site and others.
 - Further information on this can be found at this [README.md](https://github.com/limiteci/limiteci/blob/main/README.md) file.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=limiteci)](https://limiteci.tech)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=limiteci&theme=radical&show_icons=true)](https://limiteci.tech)
 # Projects
 - Open-Source-Software
 - Archives of filedumps and projects
