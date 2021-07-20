@@ -11,14 +11,22 @@
 - Cryptography software and devices available on the [limiteci-archive](https://limiteci.tech)
 
 # Cryptocurrency
-- $BTC
-- >bc1qpssfv5vhgpwtyxj6aysdl5thzleqpagwm9nges
-- $ETH
-- >0x81f77fEe6a1FF94E3f652A8a9d0f13116CD5dF36
-- Ɖoge
-- >DHS9xqJfdteChKiPxNjsUeUznAaZSwkt6A
-- $XMR
-- >492hgyC8zUQJQ3FxFmxWhC72wjxC7v5XdFuMeuiyUQtKF9VqpTSa6M5Vy4bcRFci8H3ajqiQ2Zn6aifBW8tMyieEGuURxPW
+### $BTC
+``` 
+bc1qpssfv5vhgpwtyxj6aysdl5thzleqpagwm9nges
+```
+### $ETH
+```
+0x81f77fEe6a1FF94E3f652A8a9d0f13116CD5dF36
+```
+### Ɖoge
+```
+DHS9xqJfdteChKiPxNjsUeUznAaZSwkt6A
+```
+### $XMR
+```
+492hgyC8zUQJQ3FxFmxWhC72wjxC7v5XdFuMeuiyUQtKF9VqpTSa6M5Vy4bcRFci8H3ajqiQ2Zn6aifBW8tMyieEGuURxPW
+```
 # Wesites
 - [limiteci.tech](https://limiteci.tech)
 - { will add more as I develop them }
