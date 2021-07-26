@@ -3,7 +3,7 @@
 - Further information on this can be found at this [README.md](https://github.com/limiteci/limiteci/blob/main/README.md) file.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=limiteci)](https://limiteci.tech)
-# Projects
+# Projects ![](https://img.shields.io/badge/%40~%24-open--source-red)
 - Open-Source-Software
 - Archives of filedumps and projects
 - OSINT tools and cybersecurity programs
