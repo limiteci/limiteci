@@ -27,7 +27,7 @@ DHS9xqJfdteChKiPxNjsUeUznAaZSwkt6A
 ```
 492hgyC8zUQJQ3FxFmxWhC72wjxC7v5XdFuMeuiyUQtKF9VqpTSa6M5Vy4bcRFci8H3ajqiQ2Zn6aifBW8tMyieEGuURxPW
 ```
-# Wesites
+# Websites
 - [limiteci.tech](https://limiteci.tech)
 - { will add more as I develop them }
 # thank you for visting my page (very cool)
