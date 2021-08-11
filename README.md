@@ -11,8 +11,12 @@
 - Cryptography software and devices available on the [limiteci-archive](https://limiteci.tech)
 
 # Cryptocurrency
+### $XMR
+```
+49ponz1xWwed6Yi29EdJiRLx4csLjH6smWnUrk5BtHq79bAwKBpJxXUj6Br9CHbtsQfXvy6xj9f9D1ucWVPkvVwM7e2yLGM
+```
 ### $BTC
-``` 
+```
 bc1qpssfv5vhgpwtyxj6aysdl5thzleqpagwm9nges
 ```
 ### $ETH
@@ -22,10 +26,6 @@ bc1qpssfv5vhgpwtyxj6aysdl5thzleqpagwm9nges
 ### Ɖoge
 ```
 DHS9xqJfdteChKiPxNjsUeUznAaZSwkt6A
-```
-### $XMR
-```
-492hgyC8zUQJQ3FxFmxWhC72wjxC7v5XdFuMeuiyUQtKF9VqpTSa6M5Vy4bcRFci8H3ajqiQ2Zn6aifBW8tMyieEGuURxPW
 ```
 # Websites
 - [limiteci.tech](https://limiteci.tech)
